@@ -121,4 +121,4 @@ The illustrations and scripts in this repository are released under the license 
 
 ## 👤 Author
 
-Your Name · [GitHub]() · [LinkedIn](https://www.linkedin.com/in/your-profile)
+Your Name · [github](https://github.com/surajaseri0894-alt/OLYMPIC-GAMES-.git) 
